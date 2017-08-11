@@ -96,6 +96,8 @@ $colored-select-drop-caret: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB
   }
 
   > input[type=text],
+  > input[type=tel],
+  > input[type=url],
   > input[type=range],
   > input[type=email],
   > input[type=password],
@@ -124,6 +126,8 @@ $colored-select-drop-caret: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB
   }
 
   > input[type=text],
+  > input[type=tel],
+  > input[type=url],
   > input[type=email],
   > input[type=password],
   > input[type=number],
@@ -139,6 +143,8 @@ $colored-select-drop-caret: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB
   }
 
   > input[type=text],
+  > input[type=tel],
+  > input[type=url],
   > input[type=range],
   > input[type=email],
   > input[type=password],
